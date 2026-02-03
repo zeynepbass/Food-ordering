@@ -1,4 +1,4 @@
-🚀 Yeni Projem Yayında! 🚀
+
 
 HTML, CSS, React, Node.js ve MongoDB kullanarak geliştirdiğim kapsamlı projemi sizlerle paylaşmaktan büyük heyecan duyuyorum! Bu projede, kullanıcıların giriş yapabileceği ve kayıt olabileceği bir sistem sunuluyor. Ayrıca, müşterilerin sipariş oluşturabileceği, ürünleri sepete ekleyebileceği, müşteri takibini ve siparişleri takip edebileceği bir platform geliştirdim.
 
