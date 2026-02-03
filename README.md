@@ -4,12 +4,20 @@ HTML, CSS, React, Node.js ve MongoDB kullanarak geliştirdiğim kapsamlı projem
 
 Projemde şu özellikler bulunuyor:
 
-#Kullanıcı Yönetimi: Giriş yapma ve kayıt olma
+#Kullanıcı Yönetimi:
 
-#Sipariş Yönetimi: Sipariş oluşturma, sepete ürün ekleme ve siparişleri takip etme
+Giriş yapma ve kayıt olma
 
-#Fatura Entegrasyonu: Fatura oluşturma ve yazdırma
+#Sipariş Yönetimi:
+
+Sipariş oluşturma, sepete ürün ekleme ve siparişleri takip etme
+
+#Fatura Entegrasyonu: 
+
+Fatura oluşturma ve yazdırma
 
 #Kategori ve Ürün Yönetimi:
+
 Kategori ekleme, ürün ekleme ve her biri için CRUD işlemleri
+
 Geri bildirimlerinizi ve önerilerinizi duymak için sabırsızlanıyorum! 💻🌟
